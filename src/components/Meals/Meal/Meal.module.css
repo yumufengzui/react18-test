@@ -1,0 +1,28 @@
+.mealItem{
+  width: 100%;
+  border-bottom: 1px solid #fafafa;
+  height: 200rem;
+  display: flex;
+}
+.mealImg{
+  width: 200rem;
+  height: 100%;
+}
+.mealDesc{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.mealTitle{
+  height: 50rem;
+  line-height: 50rem;
+}
+.mealSection{
+  height: 100rem;
+}
+.mealFooter{
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
